@@ -79,13 +79,7 @@ const GlobalDialogActionButtons =
 const GlobalDialogCancelButtons =
   document.querySelectorAll("button.cancel-button");
 
-/*******************************************************/
-/* SEARCH BUTTON, PROFILE BUTTON, SKIP LINK, MODE TABS */
-/*******************************************************/
-const GlobalProfileBtn = document.getElementById("profileBtn");
-const GlobalProfileBtnImg = document.getElementById("profileBtnImg")
-const GlobalSkipLink = document.getElementById("sLink");
-const GlobalModeTabsContainer = document.getElementById("modeTabs");
+
 
 /*****************************************************/
 /* LOGIN PAGE AND FORM                               */
